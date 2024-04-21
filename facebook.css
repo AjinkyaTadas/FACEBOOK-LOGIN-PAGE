@@ -1,0 +1,92 @@
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    h1 {
+        color: blue;
+        font-size: 80px;
+        margin-top: 230px;
+        margin-left: 100px;
+        font: bold;
+    }
+    
+    .Facebook {
+        cursor: pointer;
+    }
+    
+    p {
+        font: bold;
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 100px;
+    }
+    
+    .box {
+        width: 400px;
+        height: 270px;
+        box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);
+        background-color: rgba(255, 255, 255, 0.676);
+        margin-left: 60%;
+        margin-top: -200px;
+    }
+    
+    .Email {
+        width: 380px;
+        height: 40px;
+        padding: .3125rem;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    
+    .password {
+        width: 380px;
+        height: 40px;
+        padding: .3125rem;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    
+    .button {
+        font-size: 15px;
+        color: white;
+        width: 380px;
+        background-color: rgb(43, 43, 208);
+        margin-left: 10px;
+        height: 40px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    h6 {
+        font-size: 15px;
+        margin-left: 140px;
+        font: bold;
+        cursor: pointer;
+    }
+    
+    .button2 {
+        font-size: 15px;
+        font: bold;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: green;
+        margin-left: 70px;
+        width: 280px;
+        margin-top: -5px;
+        cursor: pointer;
+    }
+    
+    .last {
+        font-size: 15px;
+        margin-top: 40px;
+        margin-left: 800px;
+    }
+    
+    .cursor {
+        cursor: pointer;
+    }
